@@ -320,11 +320,16 @@ a {
       padding: 20px;
       -webkit-transition: .3s all ease;
       -o-transition: .3s all ease;
-      transition: .3s all ease; }
+      transition: .3s all ease; 
+      font-size: 38px;}
       .filters ul li:hover {
-        color: #bac964; }
+        color: #d24c34; }
       .filters ul li.active {
-        color: #bac964; }
+        color: #923525; }
+
+.project-content {
+  display:block;
+}
 
 .single-portfolio {
   margin-bottom: 50px;
